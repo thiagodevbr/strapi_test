@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_concepts_items",
+  "info": {
+    "name": "conceptsItems",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

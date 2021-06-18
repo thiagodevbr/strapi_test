@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_page_social_icons",
+  "info": {
+    "name": "socialIcon",
+    "icon": "network-wired"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "enumeration",
+      "enum": [
+        "Github",
+        "Twitter",
+        "Linkedin",
+        "Facebook"
+      ],
+      "default": "Twitter",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
