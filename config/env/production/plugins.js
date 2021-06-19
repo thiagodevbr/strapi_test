@@ -1,5 +1,4 @@
 module.exports = ({ env }) => ({
-  // ...
   upload: {
     provider: 'scaleway',
     providerOptions: {
@@ -12,5 +11,4 @@ module.exports = ({ env }) => ({
       }
     }
   },
-  // ...
 });
